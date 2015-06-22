@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-
+    
+    <!-- Polish Translate -->
+    
 <resources>
 
     <!-- AndroidAgo -->
@@ -12,42 +14,42 @@
         Bookmarks
     </string>
     <string name="album_title_history">
-        History
+        Historia
     </string>
     <string name="album_title_home">
         Home
     </string>
     <string name="album_untitled">
-        Untitled
+        Bez nazwy
     </string>
 
     <!-- Clear -->
     <string name="clear_label">
-        Clear
+        Wyczyść
     </string>
     <string name="clear_menu_done_all">
-        All Done
+        Wykonano
     </string>
     <string name="clear_title_quit">
-        Clear When the Application Exits
+        Wyczyść podczas wyjścia z aplikacji
     </string>
     <string name="clear_title_bookmarks">
-        Clear Bookmarks
+        Wyczyść zakładki
     </string>
     <string name="clear_title_cache">
-        Clear Cache
+        Wyczyść Cache
     </string>
     <string name="clear_title_cookie">
-        Clear Cookies
+        Wyczyść ciasteczka
     </string>
     <string name="clear_title_form_data">
-        Clear Form data
+        Wyczyść dane formularzy
     </string>
     <string name="clear_title_history">
-        Clear History
+        Wyczyść historię
     </string>
     <string name="clear_title_passwords">
-        Clear Passwords
+        Wyczyść zapisane hasła
     </string>
 
     <!-- Dialog -->
@@ -61,41 +63,41 @@
         Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
     </string>
     <string name="dialog_sign_in_username">
-        Username
+        Nazwa użytkownika
     </string>
     <string name="dialog_sign_in_password">
-        Password
+        Hasło
     </string>
     <string name="dialog_button_positive">
         OK
     </string>
     <string name="dialog_button_negative">
-        Cancel
+        Anuluj
     </string>
     <string name="dialog_button_custom">
-        Custom
+        Własne
     </string>
     <string name="dialog_title_download">
-        Do you want to download this file?
+        Pobrać plik?
     </string>
     <string name="dialog_title_resubmission">
         Resubmit
     </string>
     <string name="dialog_title_warning">
-        Warning
+        Ostrzeżenie
     </string>
     <string name="dialog_title_sign_in">
-        Sign in
+        Dołącz
     </string>
     <string name="dialog_content_resubmission">
         Would you like to resubmit your data?
     </string>
     <string name="dialog_content_ssl_error">
-        The certificate of the site is not trusted. Proceed anyway?
+        Certyfikat tej strony jest niezaufany. Kontynuować?
     </string>
     <string name="dialog_content_update">
-        Click the link to check for updates -\n http://bit.ly/UBPUpdate \n
-        Current version is 1.4.2.
+        Przejdź, aby sprawdzić aktualizacje -\n http://bit.ly/UBPUpdate \n
+        Obecna wersja to 1.4.2.
     </string>
     <string name="dialog_content_upload">
         Currently, File upload is only supported on Android 5.0 and above.
@@ -103,18 +105,18 @@
 
     <!-- List -->
     <string name="list_empty">
-        Current list is empty
+        Lista jest pusta
     </string>
 
     <!-- Main -->
     <string name="main_menu_new_tab">
-        Open in a new tab
+        Otwórz w nowym oknie
     </string>
     <string name="main_menu_copy_link">
-        Copy link
+        Kopiuj link
     </string>
     <string name="main_menu_save">
-        Save
+        Zapisz
     </string>
     <string name="main_omnibox_input_hint">
         Search or type URL
@@ -128,7 +130,7 @@
 
     <!-- Notification -->
     <string name="notification_content_holder">
-        Click to View Pages
+        Dotknij aby pokazać strony
     </string>
 
     <!-- Readability -->
@@ -136,10 +138,10 @@
         Readability Mode
     </string>
     <string name="readability_menu_background">
-        Background
+        Tło
     </string>
     <string name="readability_menu_share">
-        Share
+        Udostępnij
     </string>
     <string name="readability_empty">
         ERROR: Failed to access Readability Server. Please check access token and Internet connection.
@@ -147,12 +149,12 @@
 
     <!-- Search -->
     <string name="search_hint">
-        Search
+        Szukaj
     </string>
 
     <!-- Settings -->
     <string name="setting_label">
-        Settings
+        Ustawienia
     </string>
     <!-- Browser settings -->
     <string name="setting_title_browser">
